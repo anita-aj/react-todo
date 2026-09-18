@@ -5,4 +5,4 @@ Simple todo app made with React. Live demo [HERE](https://react-todo-brainstatio
 ![sample](https://raw.githubusercontent.com/nTamura/react-todo/master/public/screen.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-This file has been edited by < Anita Jepngetich >
+This file has been edited by < Anit >
